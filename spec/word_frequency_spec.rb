@@ -14,4 +14,7 @@ describe('String#word_frequency') do
   it('matches a word even if the input phrase is a different case than the inputted word') do
     expect("meaghan Jones is wonderful".word_frequency("MeaGhan")).to eq(1)
   end
+  it('matches a word even if there is punctionation in the phrase') do
+    expect("How much wood could a woodchuck chuck?".word_frequency("chuck")).to eq(1)
+  end
 end

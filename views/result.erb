@@ -1,9 +1,12 @@
-<h1>The results of your input!</h1>
-<h2>Your phrase was: <%= @input_phrase %>
-<br>
-<br>Your word was: <%= @input_word %>
-<br>
-<br>Your word occurs in the phrase <%= @word_frequency_count %> times.
-</h2>
+<h1 class="headings">The results of your input!</h1>
+<div class ="solid-border">
+  <h2>   Your phrase was: <%= @input_phrase %>
+  <br>
+  <br>Your word was: <%= @input_word %>
+  <br>
+  <br>Your word occurs in the phrase <%= @word_frequency_count %> times.
+  </h2>
+  <br>
+</div>
 <br>
 <a href="/"><button type="submit" class="btn-primary btn-lg">Input new phrases and words</button></a>
