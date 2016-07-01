@@ -6,6 +6,6 @@ class String
         matched_words_array.push(input_word)
       end
     end
-    matched_words_array
+    matched_words_array.count()
   end
 end
