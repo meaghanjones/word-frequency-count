@@ -1,22 +1,17 @@
-# _{Application Name}_
+# Word Count
 
-#### _{Brief description of application}, {Date of current version}_
+#### Web application that counts how many times a word appears in a phrase, July 1st 2016
 
 #### By Meaghan Jones
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This web application shows the user how frequently a word appears in a given phrase, which are both inputted by the user. It was completed as a project for the end of the first week of the Ruby module at the Epicodus code school in Portland, Oregon. 
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+Launch the word count web application in your browser at:
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
@@ -28,10 +23,10 @@ You can contact me by email at meaghan.m.jones@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* Ruby
+* Bootstrap
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
+Licensed under the MIT License
 Copyright (c) 2016 **Meaghan**
