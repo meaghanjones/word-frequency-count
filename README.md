@@ -10,7 +10,7 @@ This web application shows the user how frequently a word appears in a given phr
 
 ## Setup/Installation Requirements
 
-Launch the word count web application in your browser at: (https://boxing-smarties-40635.herokuapp.com/ "Word Count")
+Follow the link to launch the word count web application in your browser: [Word Count] (https://boxing-smarties-40635.herokuapp.com/)
 
 
 ## Known Bugs
