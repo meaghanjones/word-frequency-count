@@ -6,11 +6,11 @@
 
 ## Description
 
-This web application shows the user how frequently a word appears in a given phrase, which are both inputted by the user. It was completed as a project for the end of the first week of the Ruby module at the Epicodus code school in Portland, Oregon. 
+This web application shows the user how frequently a word appears in a given phrase, which are both inputted by the user. It was completed as a project for the end of the first week of the Ruby module at the Epicodus code school in Portland, Oregon.
 
 ## Setup/Installation Requirements
 
-Launch the word count web application in your browser at:
+Launch the word count web application in your browser at: (https://boxing-smarties-40635.herokuapp.com/ "Word Count")
 
 
 ## Known Bugs
